@@ -10,4 +10,4 @@ NB2S
 
 test:1
 
-good
+gd
